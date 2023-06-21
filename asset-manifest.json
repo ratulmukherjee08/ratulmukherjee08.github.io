@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.b8d37dbb.css",
-    "main.js": "/static/js/main.ea19d147.js",
+    "main.js": "/static/js/main.1e1d1b68.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Apka_Market_Project.png": "/static/media/Apka_Market_Project.8df18718c24bfdd43fa1.png",
     "static/media/Ratul_Mukherjee_Resume.pdf": "/static/media/Ratul_Mukherjee_Resume.4d7e8eb2c43b0c9b8a6f.pdf",
     "static/media/my_image.jpg": "/static/media/my_image.38c8d996f6a8a9d035a9.jpg",
     "index.html": "/index.html",
     "main.b8d37dbb.css.map": "/static/css/main.b8d37dbb.css.map",
-    "main.ea19d147.js.map": "/static/js/main.ea19d147.js.map",
+    "main.1e1d1b68.js.map": "/static/js/main.1e1d1b68.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8d37dbb.css",
-    "static/js/main.ea19d147.js"
+    "static/js/main.1e1d1b68.js"
   ]
 }
