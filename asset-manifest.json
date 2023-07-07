@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8d37dbb.css",
-    "main.js": "/static/js/main.24c4573d.js",
+    "main.css": "/static/css/main.320badd8.css",
+    "main.js": "/static/js/main.14e8e2bb.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Apka_Market_Project.png": "/static/media/Apka_Market_Project.8df18718c24bfdd43fa1.png",
+    "static/media/hardwarecity.png": "/static/media/hardwarecity.cad75d8974cf60eb6998.png",
+    "static/media/apnamarket.png": "/static/media/apnamarket.50c07088d931c4801c09.png",
     "static/media/Ratul_Mukherjee_Resume.pdf": "/static/media/Ratul_Mukherjee_Resume.4d7e8eb2c43b0c9b8a6f.pdf",
     "static/media/my_image.jpg": "/static/media/my_image.38c8d996f6a8a9d035a9.jpg",
     "index.html": "/index.html",
-    "main.b8d37dbb.css.map": "/static/css/main.b8d37dbb.css.map",
-    "main.24c4573d.js.map": "/static/js/main.24c4573d.js.map",
+    "main.320badd8.css.map": "/static/css/main.320badd8.css.map",
+    "main.14e8e2bb.js.map": "/static/js/main.14e8e2bb.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8d37dbb.css",
-    "static/js/main.24c4573d.js"
+    "static/css/main.320badd8.css",
+    "static/js/main.14e8e2bb.js"
   ]
 }
